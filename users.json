@@ -1,0 +1,59 @@
+[
+    {
+        "name":"Alexey",
+        "surname": "Pazhitnov",
+        "age": 80,
+        "image": "assets/image/coder_190517-800x450.jpg",
+        "job":"Fullstack Developer",
+        "contact": "https://www.instagram.com/allthecode/?hl=en",
+        "location": "London"
+        
+        
+    },
+    {
+        "name":"Pierre",
+        "surname": "Omidyar",
+        "age": 34,
+        "image": "assets/image/computer-programmer-writing-code-at-his-desk.jpeg",
+        "job":"Front-End Developer",
+        "contact": "https://www.instagram.com/hamad_4li/?hl=en",
+        "location": "Lissabon"
+    },
+    {
+        "name":"Max",
+        "surname": "Levchin",
+        "age": 20,
+        "image": "assets/image/software-engineer-job-skills-1.jpg",
+        "job":"Back-End Developer",
+        "contact": "https://www.instagram.com/software_engineers_world/?hl=en",
+        "location": "Sao Paulo"
+    
+    },
+    {
+        "name":"Dave",
+        "surname": "Cutler",
+        "age": 37,
+        "image": "assets/image/software-engineer-skills-section-scaled-1.jpeg",
+        "job":"Fullstack Developer",
+        "contact": "https://www.instagram.com/codeworldco/?hl=en",
+        "location": "California"
+    },
+    {
+        "name":"John",
+        "surname": "Carmack",
+        "age": 45,
+        "image": "assets/image/How to Become a Software Engineer.webp",
+        "job":"Senior Back-End Developer",
+        "contact": "https://www.instagram.com/codemyjourney/?hl=en",
+        "location": "Barcelona"
+    },
+    {
+        "name":"Paul",
+        "surname": "Buchheit",
+        "age": 32,
+        "image": "assets/image/Software developer vs software engineer.jpg",
+        "job":"Senior Back-End Developer",
+        "contact": "https://www.instagram.com/software_journey1/?hl=en",
+        "location": "Madrid"
+    }
+]
